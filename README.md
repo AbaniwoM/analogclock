@@ -1,2 +1,2 @@
 # analogclock
-creating an analog clock
+creating an analog clock with html CSS and JavaScript
